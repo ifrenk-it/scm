@@ -1,2 +1,3 @@
-# scm
+# SysPri Example project
+
 SCM example
